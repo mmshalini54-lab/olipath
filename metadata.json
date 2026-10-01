@@ -1,0 +1,6 @@
+{
+  "name": "OliPath",
+  "description": "A clear path through confusing digital forms and government notices for first-time users in India. Show it. Hear it. Understand it. Do it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
